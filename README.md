@@ -18,3 +18,43 @@
 
 <h2 align="center">This is what I'm trying to remove</h2>
 <p align="center">I'll expand this more in the future.</p>
+
+<p align="center">
+  <img src="./assets/examples/example-01.png" alt="Annotated AI content example 1" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-02.png" alt="Annotated AI content example 2" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-03.png" alt="Annotated AI content example 3" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-04.png" alt="Annotated AI content example 4" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-05.png" alt="Annotated AI content example 5" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-06.png" alt="Annotated AI content example 6" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-07.png" alt="Annotated AI content example 7" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-08.png" alt="Annotated AI content example 8" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-09.png" alt="Annotated AI content example 9" width="900" />
+</p>
+
+<p align="center">
+  <img src="./assets/examples/example-10.png" alt="Annotated AI content example 10" width="900" />
+</p>
