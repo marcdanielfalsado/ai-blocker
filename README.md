@@ -2,7 +2,7 @@
   <img src="https://animesher.com/orig/0/11/117/1179/animesher.com_drrr-durarara-masaomi-kida-117915.gif" alt="Anime GIF" width="400" />
 </p>
 
-<p align="center">I'm planning to build a tool that helps people browse with less AI content or, if possible, remove it completely, including AI-generated summaries, videos, images and other features across the internet.</p>
+<p align="center">I'm planning to build a tool that helps people browse with less AI content or, if possible, remove it completely, including AI-generated summaries, videos, images and other features across the internet. As far as I know, the current tools out there that do this don't completely remove everything. So, let's try to build a better one, As a person who hates the bad effects of AI</p>
 
 
 <p align="center">
