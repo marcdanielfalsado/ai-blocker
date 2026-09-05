@@ -4,7 +4,6 @@
 
 <p align="center">I'm planning to build a tool that helps people browse with less AI content or, if possible, remove it completely, including AI-generated summaries, images, and other features across the internet.</p>
 
-<p align="center"><strong>Status: Planning</strong></p>
 
 <p align="center">
   <a href="https://www.figma.com/board/OANyR1E8kxLr8zmzJRlC45/AI-Blocker?node-id=0-1&amp;t=eKEB8A91k95DSplb-1">
