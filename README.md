@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center">This is what I'm trying to remove</h2>
-<p align="center">I'll expand this more in the future. (excuse the screenshots, im using blue light filter lol)</p>
+<p align="center">I'll expand this more in the future. (excuse the screenshots, im using blue light filter)</p>
 
 <p align="center">
   <img src="./assets/examples/example-01.png" alt="Annotated AI content example 1" width="900" />
