@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://animesher.com/orig/0/11/117/1179/animesher.com_drrr-durarara-masaomi-kida-117915.gif" alt="Anime GIF" width="400" />
+  <img src="./assets/header-anime.gif" alt="Anime GIF" width="400" />
 </p>
 
 <p align="center">I'm planning to build a tool that helps people browse with less AI content or, if possible, remove it completely, including AI-generated summaries, videos, images and other features across the internet.</p>
